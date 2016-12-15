@@ -1,0 +1,47 @@
+"Striving for transparent and credible research: practical guidelines for behavioral ecologists"
+========================================================
+author: Isabel Winney
+date: 15th December 2016
+autosize: true
+
+
+A 'crisis' in research
+========================================================
++ Lack of transparency
++ Papers that are wrong
++ Lack of trust, sometimes anger,  from general public and governments
+
+
+Reliable, reproducible, replicable
+========================================================
++ Reliable = being objective enough to produce consistent results
++ Reproducible = having good documentation so that results can be reproduced
++ Replicable = the result can be replicated closely, then conceptually
+
+
+Reliable, reproducible, replicable
+========================================================
+incremental: true
+
++ Plan
+    + Preregister
++ Document
+    + RStudio (projects)
+    + Git(hub)
+    + Jupyter
+    + etc etc etc
++ Disclose
+    + Full methods
+    + Distinguish confirmatory from exploratory analysis
+    
+through the [Open Science Framework](https://osf.io)
+
+
+A better process
+========================================================
+![](./Figures/PublishingProcess1.PNG)
+
+
+A better process
+========================================================
+![](./Figures/PublishingProcess2.PNG)
